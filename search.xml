@@ -4,23 +4,23 @@
   
     
     <entry>
-      <title>&lt;最终的选择&gt;</title>
-      <link href="/2022/02/11/2022.2.11/"/>
-      <url>/2022/02/11/2022.2.11/</url>
+      <title>mysql+eclipse+sqlyog</title>
+      <link href="/2022/03/05/JDBC%E6%9C%80%E5%BC%80%E5%A7%8B%E7%9A%84%E6%A0%B7%E5%AD%90/"/>
+      <url>/2022/03/05/JDBC%E6%9C%80%E5%BC%80%E5%A7%8B%E7%9A%84%E6%A0%B7%E5%AD%90/</url>
       
-        <content type="html"><![CDATA[<h2 id="《最后》"><a href="#《最后》" class="headerlink" title="《最后》"></a>《最后》</h2><p>今天是一个<br>悲伤的日子<br>当我发现我自己不适合<br>做一个算法工程师<br>今天也是一个<br>开心的日子<br>当我发现我自己适合<br>做一个默默无闻的公务员</p><p>你赵某东什么的也在搞算法<br>他搞的了吗<br>搞不了<br>没这个能力知道吧</p><p>我想做自己想做的事<br>爬完那个一直没去爬的山<br>有自己的时间和经历<br>去享受其余人创造的<br>宝贵的人类财富<br>或许我一方面是奉献</p><p>一方面是 挥霍</p>]]></content>
+        <content type="html"><![CDATA[<h2 id="工具"><a href="#工具" class="headerlink" title="工具"></a>工具</h2><p>jdk8 jre mysql sqlyog eclipse </p><h2 id="方法"><a href="#方法" class="headerlink" title="方法"></a>方法</h2>]]></content>
       
       
       <categories>
           
-          <category> POEM </category>
+          <category> JDBC </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 感想录 </tag>
+            <tag> computer </tag>
             
         </tags>
       
